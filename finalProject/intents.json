@@ -1,0 +1,134 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "What's up",
+        "Yo"
+      ],
+      "responses": [
+        "Hey",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Anytime!", "My pleasure", "You're very welcome!"]
+    },
+    {
+      "tag": "gen_questions",
+      "patterns": [
+        "How are you?",
+        "How are you feeling",
+        "Doing well?",
+        "Are you okay?",
+        "How are you holding up?",
+        "How are you doing?"
+      ],
+      "responses": [
+        "I'm good, how are you?",
+        "I'm having an awesome day!",
+        "My life is great but this is about you",
+        "As an AI, I'm always happy"
+      ]
+    },
+    {
+      "tag": "gen_answer_pos",
+      "patterns": [
+        "I'm good thanks",
+        "Good",
+        "Fine",
+        "Great",
+        "I'm good"
+      ],
+      "responses": [
+        "Good to hear",
+        "Good",
+        "That's good",
+        "Great to hear",
+        "That's cool",
+        "Nice to hear that"
+      ]
+    },
+    {
+      "tag": "gen_question_neg",
+      "patterns": [
+        "Not good",
+        "I'm not feeling very well",
+        "Bad",
+        "Not well",
+        "Could be better",
+        "Could be worse"
+      ],
+      "responses": [
+        "What's wrong?",
+        "That's not good",
+        "I hope it gets better",
+        "Oh",
+        "I hope things will get better"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Make me laugh",
+        "I want to laugh",
+        "Are you funny?"
+      ],
+      "responses": [
+        "I don't trust stairs. They're always up to something.",
+        "How do you get a squirrel to like you? Act like a nut.",
+        "Why couldn't the bicycle stand up by itself? It was two tired.",
+        "Why can't a nose be 12 inches long? Because then it would be a foot."
+      ]
+    },
+    {
+      "tag": "animals",
+      "patterns": [
+        "What's your favorite animal?",
+        "What animal do you like?",
+        "I like animals",
+        "I love animals",
+        "Do you like animals?",
+        "Animals"
+      ],
+      "responses": [
+        "I love pandas!",
+        "Pandas are so cute!",
+        "I love animals!",
+        "I love the zoo!",
+        "Pandas are my favorite"
+      ]
+    },
+    {
+      "tag": "future",
+      "patterns": [
+        "I'm scared of the future",
+        "I don't know what the future will be like",
+        "The future is scary",
+        "The future is dark",
+        "Where do I go from here?",
+        "Things seem dark",
+        "Where will I go?",
+        "What will happen?"
+      ],
+      "responses": [
+        "The future is scary but you can succeed if you try.",
+        "Focus on the present. Take one step at a time.",
+        "You are in control of your life. Don't let it control you.",
+        "You will do great. I'm sure of it.",
+        "You can succeed.",
+        "You will accomplish your dreams. Don't give up."
+      ]
+    }
+  ]
+}

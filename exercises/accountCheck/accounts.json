@@ -1,0 +1,37 @@
+{
+  "accounts": [
+    {
+      "user": "Sneaky",
+      "password": "ashe",
+      "playerInfo": {
+        "class": "Hunter",
+        "rank": "Grandmaster",
+        "win": 328,
+        "loss": 198,
+        "skillset": ["1. Ranger's Focus", "2. Volley", "3. Hawkshot", "4. Enchanted Crystal Arrow"]
+      }
+    },
+    {
+      "user": "Faker",
+      "password": "zed",
+      "playerInfo": {
+        "class": "Assassin",
+        "rank": "Challenger",
+        "win": 494,
+        "loss": 246,
+        "skillset": ["1. Razor Shuriken", "2. Living Shadow", "3. Shadow Slash", "4. Death Mark"]
+      }
+    },
+    {
+      "user": "Tyler1",
+      "password": "draven",
+      "playerInfo": {
+        "class": "Warrior",
+        "rank": "Bronze II",
+        "win": 143,
+        "loss": 121,
+        "skillset": ["1. Spinning Axe", "2. Blood Rush", "3. Stand Aside", "4. Whirling Death"]
+      }
+    }
+  ]
+}

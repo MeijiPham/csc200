@@ -1,0 +1,66 @@
+<menu>
+  <food type='drink'>
+    <item>Water</item>
+    <price>$0</price>
+  </food>
+  <food type='drink'>
+    <item>Soda</item>
+    <price>$1.50</price>
+  </food>
+  <food type='drink'>
+    <item>Coffee</item>
+    <price>$2</price>
+  </food>
+  <food type='drink'>
+    <item>Fruit Juice</item>
+    <price>$1</price>
+  </food>
+  <food type='appetizer'>
+    <item>House Salad</item>
+    <price>$5.50</price>
+  </food>
+  <food type='appetizer'>
+    <item>Greek Salad</item>
+    <price>$7</price>
+  </food>
+  <food type='appetizer'>
+    <item>Chicken Wings</item>
+    <price>$6.50</price>
+  </food>
+  <food type='appetizer'>
+    <item>Mozarella Sticks</item>
+    <price>$6</price>
+  </food>
+  <food type='entree'>
+    <item>Burger</item>
+    <price>$12.95</price>
+  </food>
+  <food type='entree'>
+    <item>Steak and Fries</item>
+    <price>$18.95</price>
+  </food>
+  <food type='entree'>
+    <item>Lobster</item>
+    <price>$22</price>
+  </food>
+  <food type='entree'>
+    <item>Ravioli</item>
+    <price>$14</price>
+  </food>
+  <food type='dessert'>
+    <item>Cheesecake</item>
+    <price>$6.50</price>
+  </food>
+  <food type='dessert'>
+    <item>Apple Pie</item>
+    <price>$5.50</price>
+  </food>
+  <food type='dessert'>
+    <item>Ice cream</item>
+    <price>$5.50</price>
+  </food>
+  <food type='dessert'>
+    <item>Chocolate Souffle</item>
+    <price>$8</price>
+  </food>
+</menu>
